@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    text-decoration: none;
+}
+ul > li {
+    display: inline;
+    padding: auto;
+    display: inline;
+}
+h1 {
+    font-family: "Anime Ace v02";
+}
+a {
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+}
+.above {
+    width: 100%;
+    top: 1vh;
+    background-color: aqua;
+    position: relative;
+}
+.below {
+    width: 100%;
+    bottom: -40vh;
+    background-color: goldenrod;
+    position: relative;
+}
