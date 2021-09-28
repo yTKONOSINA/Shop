@@ -1,3 +1,23 @@
+.container {
+    margin: 5px 5px;
+    width: auto;
+    position: center;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.toright {
+    position: absolute;
+    right: 20px;
+}
+
+.header-footer {
+    background-color: aqua;
+    height: 200px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -15,16 +35,4 @@ a {
     text-decoration: none;
     background-color: transparent;
     color: black;
-}
-.above {
-    width: 100%;
-    top: 1vh;
-    background-color: aqua;
-    position: relative;
-}
-.below {
-    width: 100%;
-    bottom: -40vh;
-    background-color: goldenrod;
-    position: relative;
 }

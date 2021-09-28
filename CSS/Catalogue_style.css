@@ -1,7 +1,25 @@
-p {
-    color: black;
-    font-family: "Anime Ace v02";
+.main {
+    margin: 5px;
 }
+
+.inline {
+    display: inline-block;
+    
+}
+
+.block {
+    display: block;
+}
+
+.item {
+    font-family: "Anime Ace v02";
+    border-style: solid;
+    width: 700px;
+    height: 600px;
+    display: inline-block;
+    margin: 50px;
+}
+
 a {
     text-decoration: none;
     background-color: transparent;
