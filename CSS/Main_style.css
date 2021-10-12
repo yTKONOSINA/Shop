@@ -1,0 +1,40 @@
+.container {
+    margin: 5px 5px;
+    width: auto;
+    position: center;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.header-footer {
+    border-color: cornflowerblue;
+    margin: 5px;
+    background-color:blueviolet;
+    height: 200px;
+    border-style: solid;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    text-decoration: none;
+}
+ul > li {
+    display: inline;
+    padding: auto;
+    display: inline;
+}
+h1 {
+    font-family: "Anime Ace v02";
+}
+a {
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+}
+
+body {
+    background-color: purple;
+}
