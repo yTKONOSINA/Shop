@@ -8,14 +8,12 @@
     display: inline-block;
 }
 
-.toright {
-    position: absolute;
-    right: 20px;
-}
-
 .header-footer {
-    background-color: aqua;
+    border-color: cornflowerblue;
+    margin: 5px;
+    background-color:blueviolet;
     height: 200px;
+    border-style: solid;
 }
 
 ul {
@@ -35,4 +33,8 @@ a {
     text-decoration: none;
     background-color: transparent;
     color: black;
+}
+
+body {
+    background-color: purple;
 }

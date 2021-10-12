@@ -28,3 +28,7 @@ a {
 img {
     outline: thick double black;
 }
+
+body {
+    background-color:burlywood;
+}
